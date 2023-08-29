@@ -28,7 +28,7 @@ selector de clase: Se define con un punto e inmediatamente después un nombre
 <ul>
   <li>Text-align: Esta propiedad hace que el texto vaya a donde usted quiere aplicarle.</li>
   <li>width: Propiedad encargada de dar ancho a una caja en CSS.</li>
-  <li>margin: Esta propiedad tiene 4 valores y son: <li>
+  <li>margin: Esta propiedad tiene 4 valores y son:<li>
     <ul>
       <li>left: Parte izquierda de margin</li>
       <li>rigth: Parte derecha de margin</li>
