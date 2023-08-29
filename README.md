@@ -8,9 +8,11 @@ CSS significa hojas de estilos en cascada (Cascading Style Sheets) y esta permit
 
 CSS funciona de la siguiente manera:
 
+```
 elemento {
   propiedad: valor;
 }
+```
 
 El elemento da a entender que se esta seleccionando ese elemento de alguna parte del html, las propiedades son los efectos a dar con el valor que uno prefiere o necesita.
 Esta es su configuración predeterminada que tiene todo elemento CSS y es allí que puede irse agregando más propiedades con el fin de darle el efecto deseado por el programador.
