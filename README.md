@@ -40,7 +40,7 @@ selector de clase: Se define con un punto e inmediatamente después un nombre
   <li>display:  Especifica si un elemento es tratado como elemento en bloque o en linea.</li>
 </ul>
 
-<h2>HTML-Elementos vistos en html</h2>
+<h2>HTML-Elementos vistos en este curso</h2>
 <ul>
   <li>div: Se utiliza principalmente para própositos de diseño a diferencia de los otros elementos de contenido que has usado hasta ahora.</li>
   <li>article: Es un elemento que contienen múltiples elementos que tienen información relacionada.</li>
