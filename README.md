@@ -22,7 +22,7 @@ En el curso se hace un pequeño ejemplo de CSS aplicando el elemento style dentr
 CSS tiene distintas manera de personalizar a la página web y estos tiene algunas propiedades que ayudan a CSS a personalizar de manera especifica que elemento desee, entre ellos tenemos los siguientes tipos de selectores.
 <ul>
   <li>Selectores de tipo, de clase y de ID: Este grupo incluye selectores que delimitan un elemento HTML</li>
-  <li>selector de atributo: Este grupo de selectores te proporciona diferentes formas de seleccionar elementos según la presencia de un atributo determinado en un elemento<li>
+  <li>selector de atributo: Este grupo de selectores te proporciona diferentes formas de seleccionar elementos según la presencia de un atributo determinado en un elemento</li>
   <li>pseudo-selectores: Este grupo de selectores incluye pseudoclases, que aplican estilo a ciertos estados de un elemento. La pseudoclase :hover, por ejemplo, selecciona un elemento solo cuando se le pasa el ratón por encima.</li>
 </ul>
 
